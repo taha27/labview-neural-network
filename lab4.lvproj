@@ -1556,6 +1556,7 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="feedforward.vi" Type="VI" URL="../feedforward.vi"/>
+		<Item Name="feedforward_3axis.vi" Type="VI" URL="../feedforward_3axis.vi"/>
 		<Item Name="logistic_fn.vi" Type="VI" URL="../logistic_fn.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
