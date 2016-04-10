@@ -1564,8 +1564,6 @@ AddOutputFilter chunkFilter
 		<Item Name="logistic_fn.vi" Type="VI" URL="../logistic_fn.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="update_weight.vi" Type="VI" URL="../update_weight.vi"/>
-		<Item Name="update_weight_j.vi" Type="VI" URL="../update_weight_j.vi"/>
-		<Item Name="update_weight_k.vi" Type="VI" URL="../update_weight_k.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Accelerometer Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Accelerometer/typedefs/Accelerometer Channels Enum.ctl"/>
