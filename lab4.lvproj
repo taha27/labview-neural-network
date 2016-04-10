@@ -1558,9 +1558,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Delta_theta.vi" Type="VI" URL="../Delta_theta.vi"/>
 		<Item Name="feedforward.vi" Type="VI" URL="../feedforward.vi"/>
 		<Item Name="feedforward_3axis.vi" Type="VI" URL="../feedforward_3axis.vi"/>
-		<Item Name="logistic_fn.vi" Type="VI" URL="../logistic_fn.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="update_weight.vi" Type="VI" URL="../update_weight.vi"/>
 		<Item Name="update_weight_k.vi" Type="VI" URL="../update_weight_k.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
